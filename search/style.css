@@ -1,0 +1,140 @@
+#image_direct {
+    color: #ffffff;
+    font-family: Arial, sans-serif;
+    line-height: 22px;
+    border-bottom: 8px solid transparent;
+    padding-top: 11px;
+    overflow-x: hidden;
+    position: absolute;
+    top: 0;
+    right: 0;
+    font-size: 14px;
+    font-family: Arial, sans-serif;
+    padding: 10px;
+    text-align: center;
+}
+#advanced_direct {
+    color: #ffffff;
+    font-family: Arial, sans-serif;
+    line-height: 22px;
+    border-bottom: 8px solid transparent;
+    padding-top: 11px;
+    overflow-x: hidden;
+    position: absolute;
+    top: 30px;
+    right: 0;
+    font-size: 14px;
+    font-family: Arial, sans-serif;
+    padding: 10px;
+}
+#search_input {
+    border-radius: 25px;
+    background-color: #444746;
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    color: #eef0ff;
+    line-height: 22px;
+    border-bottom: 8px solid transparent;
+    padding-top: 11px;
+    overflow-x: hidden;
+    position: absolute;
+    top: 45%;
+    left: 700px;
+    width: 500px;
+    padding: 10px;
+}
+#search_button {
+    background-color: #c3c6d6;
+    font-family: Arial, sans-serif;
+    line-height: 22px;
+    border-bottom: 8px solid transparent;
+    padding-top: 11px;
+    overflow-x: hidden;
+    position: absolute;
+    top: 480px;
+    left: 780px;
+    width: 150px;
+
+}
+#lucky_button2 {
+    background-color: #c3c6d6;
+    font-family: Arial, sans-serif;
+    line-height: 22px;
+    border-bottom: 8px solid transparent;
+    padding-top: 11px;
+    overflow-x: hidden;
+    position: absolute;
+    top: 480px;
+    left: 1000px;
+    width: 150px;
+}
+#image_button {
+    background-color: #c3c6d6;
+    font-family: Arial, sans-serif;
+    line-height: 22px;
+    border-bottom: 8px solid transparent;
+    padding-top: 11px;
+    overflow-x: hidden;
+    position: absolute;
+    top: 480px;
+    left: 890px;
+    width: 150px;
+}
+#all {
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    line-height: 22px;
+    border-bottom: 8px solid transparent;
+    padding-top: 5px;
+    overflow-x: hidden;
+    position: absolute;
+    top: 150px;
+    left: 300px;
+    width: 250px;
+    padding: 5px;
+}
+#exact {
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    padding: 5px;
+    line-height: 22px;
+    border-bottom: 8px solid transparent;
+    padding-top: 5px;
+    overflow-x: hidden;
+    position: absolute;
+    top: 250px;
+    left: 300px;
+    width: 250px;
+}
+#any {
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    padding: 5px;
+    line-height: 22px;
+    border-bottom: 8px solid transparent;
+    padding-top: 5px;
+    overflow-x: hidden;
+    position: absolute;
+    top: 350px;
+    left: 300px;
+    width: 250px;
+}
+#none {
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    padding: 5px;
+    line-height: 22px;
+    border-bottom: 8px solid transparent;
+    padding-top: 5px;
+    overflow-x: hidden;
+    position: absolute;
+    top: 450px;
+    left: 300px;
+    width: 250px;
+}
+#submit {
+    position: absolute;
+    top: 550px;
+    left: 500px;
+    height: 35px;
+}

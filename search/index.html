@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Search</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body style="background-color:#28292a;">
+        <form action="https://google.com/search">
+            <input type="text" name="q" id="search_input">
+            <input type="submit" value="Google Search" id="search_button">
+        </form>
+        <form action="https://google.com/search">
+            <input type="hidden" name="q" id="lucky_input" value="">
+            <input type="hidden" name="btnI" value="I'm+Feeling+Lucky" id="lucky_button">
+            <input type="submit" value="I'm Feeling Lucky" id="lucky_button2">
+        </form>
+
+        <script>
+            document.getElementById("lucky_button2").addEventListener("click", function(){
+                document.getElementById("lucky_input").value = document.getElementById("search_input").value;
+            });
+        </script>
+        
+        <div>
+            <a href="image.html"id="image_direct">Image Search</a>
+            <a href="advanced.html" id="advanced_direct">Advanced Search</a>
+        </div>
+        
+    </body>
+</html>
